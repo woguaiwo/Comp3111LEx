@@ -11,5 +11,6 @@ public class mainApp1 {
         System.out.println("Program ..Ended ...");
         System.out.println("COMP3111 Lab1 Report");
         System.out.println("TSE, Ling Kun (20989331)");
+        System.out.println("Third Commit");
     }
 }
