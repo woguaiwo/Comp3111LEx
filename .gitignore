@@ -1,0 +1,8 @@
+# Comp3111LEx — .gitignore
+# NOTE (Lab1 Step 2.2): IntelliJ's default .gitignore normally starts with "target/".
+# The lab asks you to DELETE that line so the built .class files get committed.
+# This file therefore intentionally does NOT ignore target/ or .idea —
+# Lab1 Step 2.1.5 asks you to share project settings via VCS ("Always Add").
+
+.DS_Store
+*.log
